@@ -1,5 +1,5 @@
 // ignore_for_file: sized_box_for_whitespace, use_key_in_widget_constructors, camel_case_types
-
+/*
 import 'package:flutter/material.dart';
 import 'package:news_app/constands/failed_picture.dart';
 
@@ -219,3 +219,4 @@ class UpCardScrollWidget extends StatelessWidget {
     );
   }
 }
+*/
