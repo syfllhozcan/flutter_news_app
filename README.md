@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/79658728/228556734-ad00fcea-9600-4d6f-9e4c-751bca78b98e.png" width="350" height="692">
+<img src="https://user-images.githubusercontent.com/79658728/228556734-ad00fcea-9600-4d6f-9e4c-751bca78b98e.png" width="320" height="632">
 
 # flutter_news_app
 
