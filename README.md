@@ -1,4 +1,4 @@
-![Screenshot_1679172837|300]](https://user-images.githubusercontent.com/79658728/228556734-ad00fcea-9600-4d6f-9e4c-751bca78b98e.png)
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/79658728/228556734-ad00fcea-9600-4d6f-9e4c-751bca78b98e.png)" width="100" height="100">
 
 # flutter_news_app
 
